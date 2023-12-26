@@ -37,16 +37,20 @@ python gemini-pro-client.py [options]
 
 - Generate text with a user-provided prompt and extended context:
 ```bash
-    python gemini-pro-client.py```
-    - Generate text with a user-provided prompt only:
-```bash
-    python gemini-pro-client.py --base```
+    python gemini-pro-client.py
+```
 
-    - Load a prompt from a file and generate text:
-      ```bash
-        python gemini-pro-client.py --load_prompt example_prompt.txt
-          ```
-          - Engage in interactive chat mode:
+- Generate text with a user-provided prompt only:
+```bash
+    python gemini-pro-client.py --base
+```
+
+- Load a prompt from a file and generate text:
+```bash
+    python gemini-pro-client.py --load_prompt example_prompt.txt
+```
+
+- Engage in interactive chat mode:
 ```bash
 python gemini-pro-client.py --chat_mode
 ```
