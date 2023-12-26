@@ -2,6 +2,10 @@
 # Gemini Pro Client
 ## Overview
 
+NOTE: THIS PROGRAM DOES NOT INCLUDE SUBSTANTIAL BASE PROMPTS. PLEASE DESIGN YOUR OWN FOR BEST RESULTS.
+
+What is included is a Django-based code replicator and a chat interface: the rest must be dealt with by writing hand-crafted, or writing machine-crafted prompts, and saving them to the prompts directory.
+
 The Gemini Pro Client is a Python script designed to interact with the Google Gemini AI model. It offers capabilities for generating text completions based on various input prompts. The script can operate in different modes, allowing users to either provide a single prompt for one-time text generation or engage in an interactive chat-like session where the model builds upon the ongoing conversation.
 
 ## Features
