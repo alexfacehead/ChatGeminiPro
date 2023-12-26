@@ -1,5 +1,10 @@
 
 # Gemini Pro Client
+
+### Prework:
+
+Please rename `.env.template` to `.env` and include your Google API key that is compatible with Gemini-Pro.
+
 ## Overview
 
 NOTE: THIS PROGRAM DOES NOT INCLUDE SUBSTANTIAL BASE PROMPTS. PLEASE DESIGN YOUR OWN FOR BEST RESULTS.
